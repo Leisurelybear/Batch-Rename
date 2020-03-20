@@ -1,4 +1,4 @@
-# batchRename
+# Batch-Rename
 
 ## 批量修改字幕名（文件名）
 
