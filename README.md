@@ -3,9 +3,9 @@
 ## 批量修改字幕名（文件名）
 
 
-**目前可用功能就是修改一堆字幕文件名，使其与对应视频相互匹配）**
+**目前可用功能是批量修改字幕文件名，使其与对应视频相互匹配）**
 
-*（在/src/utlis/RenameUtils.java中已经写了许多批量改名的方法，但是没有使用，如果有谁需要可以拿去使用)*
+*（在/src/utlis/RenameUtils.java中已经写了许多批量改名的方法，可以自由修改使用)*
 
 **食用方法：**（必须有jre java运行环境 不需要有jdk）程序入口是src下的Main类
 1. 确保所有视频在一个文件夹，而且这个文件夹只有这些视频。
@@ -14,3 +14,7 @@
 
 UI：
 ![界面ui样例.png](https://s1.ax1x.com/2020/03/20/8cS94H.png)
+
+
+## LICENSE
+[The MIT License (MIT)](https://opensource.org/licenses/MIT)
